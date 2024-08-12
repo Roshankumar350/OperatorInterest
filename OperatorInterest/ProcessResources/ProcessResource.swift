@@ -15,7 +15,7 @@ final class ProcessResource {
         self.csvResource = csvResource
     }
     
-    func processResources() -> [Resource]? {
+    func processCSVResource() -> [Resource]? {
         let rows = csvResource.components(separatedBy: .newlines).filter{ !$0.trimmingCharacters(in: .whitespaces).isEmpty}
         var resources = [Resource]()
         resources.reserveCapacity(rows.count)

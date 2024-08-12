@@ -8,8 +8,9 @@
 import Foundation
 
 final class LoadResources {
-    enum ResourcesName: String {
+    enum ResourcesName: String, CaseIterable {
         case Derivative_Analytics_01
+        case Derivative_Analytics_02
     }
     
     func loadResource(ofName: ResourcesName) -> String? {
