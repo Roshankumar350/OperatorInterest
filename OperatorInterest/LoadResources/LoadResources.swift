@@ -11,6 +11,7 @@ final class LoadResources {
     enum ResourcesName: String, CaseIterable {
         case Derivative_Analytics_01
         case Derivative_Analytics_02
+        case Derivative_Analytics_03
     }
     
     func loadResource(ofName: ResourcesName) -> String? {

@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		709335252C6A692500C7AF37 /* Derivative_Analytics_02.csv in Resources */ = {isa = PBXBuildFile; fileRef = 709335242C6A692500C7AF37 /* Derivative_Analytics_02.csv */; };
 		709335272C6A785C00C7AF37 /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 709335262C6A785C00C7AF37 /* View+Extension.swift */; };
+		70BFEB422C6CFC3C00DAE251 /* Derivative_Analytics_03.csv in Resources */ = {isa = PBXBuildFile; fileRef = 70BFEB412C6CFC3C00DAE251 /* Derivative_Analytics_03.csv */; };
 		70F984612C66ABC500563705 /* OperatorInterestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F984602C66ABC500563705 /* OperatorInterestApp.swift */; };
 		70F984632C66ABC500563705 /* DerivativeAnalyticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70F984622C66ABC500563705 /* DerivativeAnalyticView.swift */; };
 		70F984652C66ABC600563705 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70F984642C66ABC600563705 /* Assets.xcassets */; };
@@ -51,6 +52,7 @@
 /* Begin PBXFileReference section */
 		709335242C6A692500C7AF37 /* Derivative_Analytics_02.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Derivative_Analytics_02.csv; sourceTree = "<group>"; };
 		709335262C6A785C00C7AF37 /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
+		70BFEB412C6CFC3C00DAE251 /* Derivative_Analytics_03.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Derivative_Analytics_03.csv; sourceTree = "<group>"; };
 		70F9845D2C66ABC500563705 /* OperatorInterest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OperatorInterest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		70F984602C66ABC500563705 /* OperatorInterestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OperatorInterestApp.swift; sourceTree = "<group>"; };
 		70F984622C66ABC500563705 /* DerivativeAnalyticView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DerivativeAnalyticView.swift; sourceTree = "<group>"; };
@@ -168,6 +170,7 @@
 			children = (
 				70F984902C66AD3B00563705 /* Derivative_Analytics_01.csv */,
 				709335242C6A692500C7AF37 /* Derivative_Analytics_02.csv */,
+				70BFEB412C6CFC3C00DAE251 /* Derivative_Analytics_03.csv */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -357,6 +360,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				70F984682C66ABC600563705 /* Preview Assets.xcassets in Resources */,
+				70BFEB422C6CFC3C00DAE251 /* Derivative_Analytics_03.csv in Resources */,
 				709335252C6A692500C7AF37 /* Derivative_Analytics_02.csv in Resources */,
 				70F984652C66ABC600563705 /* Assets.xcassets in Resources */,
 				70F984912C66AD3B00563705 /* Derivative_Analytics_01.csv in Resources */,

@@ -1,4 +1,3 @@
-Date,Stock Name,Symbol,Lot Size,Sector Name,Industry Name,MCap Category,Close,Chg %,Cumulative Future OI,OI Chg %,Volume (Times),Delivery (Times),Cumulative Call OI,Cumulative Put OI,Put Call Ratio (PCR),PCR Change 1D,OI Trend,Symbol with Comma for External Upload
 12/Aug/2024,Sun TV Network Ltd.,SUNTV,1500.00,Media & Entertainment,TV Broadcasting & Software Production,Small Cap,818.80,-10.69,11004000.00,40.21,6.78,3.39,8986500.00,3702000.00,0.41,-0.15,AggressiveNewShort,"SUNTV,"
 12/Aug/2024,Voltas Ltd.,VOLTAS,600.00,Consumer Durables,Air Conditioners,Mid Cap,1582.55,10.76,10869000.00,20.36,11.00,4.94,6756600.00,6271800.00,0.93,0.32,AggressiveNewLong,"VOLTAS,"
 12/Aug/2024,National Aluminium Company Ltd.,NATIONALUM,3750.00,Non - Ferrous Metals,Aluminium & Aluminium Products,Mid Cap,174.21,-1.72,72641250.00,16.22,2.31,1.62,58428750.00,21390000.00,0.37,0.00,AggressiveNewShort,"NATIONALUM,"
